@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="Aberto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg",Cultura PR
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Aberto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png",RedeTv
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png",Play Tv
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",CNN Brasil Alt
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Azteca Uno (Mexico)
+https://tvnow.best/api/stream/keithrb@live.ca/334796/livetv.epg/azteca.uno.mx.m3u8
+#EXTINF:-1,Record News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
+#EXTINF:-1,Globo BA HD
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1,RedeTV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+#EXTINF:-1,RecordTV Conquista HD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+#EXTINF:-1,SBT Guajará
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1,TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:-1,Globo RS
+http://metv.fun:80/1669060294jam/647778/91424.m3u8
+#EXTINF:-1,Band Sports
+http://mains.services:2086/640939802963/IDC01478!/92722
+#EXTINF:-1,Rai 1 (Ita)
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19081/index.m3u8
+
+#EXTINF:-1,SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,Multishow
+http://fonte.lista.luxe/live/iptvgood/101011/3879.m3u8
+#EXTINF:-1,Globonews
+http://fonte.lista.luxe/live/iptvgood/101011/3929.m3u8
+#EXTINF:-1,GNT
+http://fonte.lista.luxe/live/iptvgood/101011/3925.m3u8
+#EXTINF:-1,Modo Viagem
+http://fonte.lista.luxe/live/iptvgood/101011/3888.m3u8
+#EXTINF:-1,Band SP
+http://fonte.lista.luxe:80/iptvgood/101011/4067
+#EXTINF:-1,Globoplay Novelas
+http://79.127.238.228:14455/
+#EXTINF:-1,CNN International
+https://tvnow.best/api/stream/antoine.lacourt@gmail.com/047434/livetv.epg/sportv2.br.m3u8
+#EXTINF:-1,sportv
+http://fonte.lista.luxe:80/iptvgood/101011/4819
+#EXTINF:-1,Sportv 2
+http://79.127.243.211:14473/
+#EXTINF:-1,Sportv 3
+http://pfsv.io:80/17335002/27775/558
+#EXTINF:-1,SBT SP
+http://cdn22.cc:80/cabeca/qazqaz/46.ts
+#EXTINF:-1,Globo SP
+https://tvnow.best/api/stream/stevesanchez53@gmail.com/273695/livetv.epg/globo.sp.br.m3u8
+#EXTINF:-1,Band News
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/band.news.br.m3u8
+#EXTINF:-1,Azteca 7
+https://tvnow.best/api/stream/ajayiboluwaji@gmail.com/065161/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1,Canal 5 Mex
+http://disfruta.net:80/fpavas/raZFGMA7GT/1920
+#EXTINF:-1,Telefe Arg
+http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
+#EXTINF:-1,Caracol Noticias Col
+http://s1.exabytetv.info:8080/live/gparedes/7grkl3xf9/1038.m3u8
+#EXTINF:-1,RCN Col
+http://190.61.43.118:45000/play/a01m
+#EXTINF:-1,Record HD
+http://op.dolipa.com:8080/lshoraim/jG9H2liq16/3936
+#EXTINF:-1,Gloobinho
+http://yrvekrn4.vip:80/edsonbarravelhaclubreserv/Key21418/103497.m3u8
+#EXTINF:-1,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1,megapix
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/megapix.br.m3u8
+#EXTINF:-1,Rcord News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
+#EXTINF:-1,SIC
+https://tvnow.best/api/stream/antoine.lacourt@gmail.com/047434/livetv.epg/sic.pt.m3u8
+#EXTINF:-1,Americ TV Arg
+https://tvnow.best/api/stream/rwatts.22det@yahoo.com/944893/livetv.epg/america.2.capital.ar.m3u8
+#EXTINF:-1,TNT Novelas MX
+http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
+#EXTINF:-1,TeleMicro RD
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemicro.do.m3u8
+#EXTINF:-1,TV Anhanguera (Globo Goiás)
+http://play.1list.vip/live/Cledson22/iiqe93qomtj/42962.m3u8
+#EXTINF:-1,Globo Minas
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/globo.minas.br.m3u8
